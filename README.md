@@ -1,1 +1,1 @@
-# Quiz
+# Simple Calculator
